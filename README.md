@@ -1,1 +1,2 @@
-# Manu
+# **_Manu Gavron_**
+Olá sou aluna **Emanuelly**, estou estudando sobre programação.
